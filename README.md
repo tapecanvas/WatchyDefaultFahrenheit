@@ -21,10 +21,7 @@ instructions to set the default 7seg watch face's weather info to your location 
 16. The output console should read:
 WARNING: library DS3232RTC claims to run on avr architecture(s) and may be incompatible with your current board which runs on esp32 architecture(s).
 Sketch uses 1783902 bytes (90%) of program storage space. Maximum is 1966080 bytes.
-Global variables use 58392 bytes (17%) of dynamic memory, leaving 269288 bytes for local variables. Maximum is 327680 bytes.
-
---------------------------
-Compilation complete.
+Global variables use 58392 bytes (17%) of dynamic memory, leaving 269288 bytes for local variables. Maximum is 327680 bytes.--------------------------Compilation complete.
 17. Connect your Watchy to your computer using a usb data cable. [data vs charge](https://www.dignited.com/50330/usb-data-cable-vs-usb-charging-cable/)
 18. Hit the upload button and wait for the watchy to reboot. Your temperature should now be accurate to your locale and in degrees F.
 
